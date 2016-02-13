@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /:title/
+url: pilianglive.top
+highlighter: pygments
+name: Paso Pi
+description: Paso Pi | Stop talking, start doing.
+author: Paso
+email: piliang@live.cn
+duoshuo: Paso
+hub: pilianglive
+safe: true
+paginate: 100
+about: "Learner"
